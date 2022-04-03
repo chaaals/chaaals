@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm Charles, a computer science student and a software developer.
 <!--
 **chaaals/chaaals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
