@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I am Charles Ching 👋</h1>
 <h3 align="center">A ComSci Student and an aspiring Software developer</h3>
-<iframe align="center"src="https://gifer.com/embed/74xC" width=480 height=480.000 frameBorder="0" allowFullScreen></iframe>
+<img align="center" src="https://gifer.com/embed/74xC" alt="game"> 
 <p>I love to:</p>
 <ul>
   <li>🧠Learn</li>
