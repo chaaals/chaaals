@@ -1,12 +1,6 @@
 <h1 align="center">Hi, I am Charles Ching 👋</h1>
-<h3 align="center">A ComSci Student and an aspiring Software developer</h3>
-<img align="center" src="https://gifer.com/embed/74xC" alt="game"> 
-<p>I love to:</p>
-<ul>
-  <li>🧠Learn</li>
-  <li>✍️Design</li>
-  <li>👨‍💻Create</li>
-</ul>
+<h2 align="center">A ComSci Student and an aspiring Software developer</h2>
+<h3>I love to 🧠Learn, ✍️Design, and 💻Create</h3>
 
 <!-- I'm Charles, a computer science student and a software developer. -->
 
