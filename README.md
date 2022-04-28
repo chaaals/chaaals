@@ -1,5 +1,7 @@
-### Hi there 👋
-I'm Charles, a computer science student and a software developer.
+<h1 align ="center">Hi, I am Charles Ching 👋 </h1>
+<h3 align ="center">ComSci Student and aspiring Software developer</h3>
+<!-- I'm Charles, a computer science student and a software developer. -->
+
 <!--
 **chaaals/chaaals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
