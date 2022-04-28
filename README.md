@@ -1,5 +1,11 @@
 <h1 align="center">Hi, I am Charles Ching 👋</h1>
 <h3 align="center">A ComSci Student and an aspiring Software developer</h3>
+<p>I love to:</p>
+<ul>
+  <li>🧠Learn</li>
+  <li>✍️Design</li>
+  <li>👨‍💻Create</li>
+</ul>
 
 <!-- I'm Charles, a computer science student and a software developer. -->
 
