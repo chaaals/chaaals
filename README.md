@@ -1,5 +1,14 @@
-<h1 align ="center">Hi, I am Charles Ching 👋 </h1>
-<h3 align ="center">ComSci Student and aspiring Software developer</h3>
+   <h1 align="center">Hi, I am Charles Ching 👋</h1>
+    <h3 align="center">
+      A ComSci Student and an aspiring Software developer
+      <img
+        src="https://giphy.com/embed/p4rlUyZC4AQzm"
+        width="280"
+        height="176"
+        alt="pikachu"
+      />
+    </h3>
+
 <!-- I'm Charles, a computer science student and a software developer. -->
 
 <!--
