@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I am Charles Ching 👋</h1>
 <h3 align="center">A ComSci Student and an aspiring Software developer</h3>
+<img src="https://i.gifer.com/74xC.gif" align="right" alt="game">
 <p>I love to:</p>
 <ul>
   <li>🧠Learn</li>
